@@ -1,10 +1,14 @@
 .img-carrossel-1 {
     object-fit: cover; /*A imagem irá ajustar na tela sem cortar ou ultrapassar o seu tamanho para caber*/
-    object-position: 0 70%;
+    object-position: 0 80%;
     height: 400px;
 }
 
 .img-carrossel-2 {
     object-fit: cover; /*A imagem irá ajustar na tela sem cortar ou ultrapassar o seu tamanho para caber*/
     height: 400px;
+}
+
+.font-titulo {
+    font-family: 'Pacifico', cursive;
 }
