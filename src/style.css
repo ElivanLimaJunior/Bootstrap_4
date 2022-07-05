@@ -25,3 +25,7 @@
 .borda-cor-especial {
     border-color: darkred;
 }
+
+.altura-img {
+    height: 210px;
+}
